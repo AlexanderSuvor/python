@@ -1,1 +1,1 @@
-#sdgsg
+print('qwerty')
